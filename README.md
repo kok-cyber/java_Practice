@@ -12,7 +12,7 @@ Brainstorming java concepts before start of classes
   
   >Grocery check out
 
-![java](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftwitter.com%2Fjava&psig=AOvVaw35iBnS7PqJ567MHi-iG1MN&ust=1631668483502000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMDtg_ak_fICFQAAAAAdAAAAABAD)
+![java](https://softwareengineeringdaily.com/wp-content/uploads/2020/01/Java-Debugging-Tips-881x441.jpg)
 
   
 
