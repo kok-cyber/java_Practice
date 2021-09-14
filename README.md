@@ -1,8 +1,8 @@
 # java_Practice
 >quick project
 
-Brainstorming java concepts before start of classes
-
+**Brainstorming java concepts before start of classes**
+  >ft CompaLoco & notmyfirstname
 **OPTIONS**
   >Baking System
   
