@@ -2,7 +2,8 @@
 >quick project
 
 **Brainstorming java concepts before start of classes**
-  >ft CompaLoco & notmyfirstname
+  -ft CompaLoco & notmyfirstname
+  
 **OPTIONS**
   >Baking System
   
